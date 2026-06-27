@@ -5,7 +5,7 @@ This project is an AI-powered tool designed to generate technical interview ques
 ## Acknowledgments
 I would like to express my gratitude to the team at Technify AI, especially:
 - Mr. Rafique Ahmed Bhutto (CEO)
-- Ms. Muskan (HR)
+- Ms. Muskan Nasir (HR)
 
 Thank you for the guidance and the great learning opportunity.
 
